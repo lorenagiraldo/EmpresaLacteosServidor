@@ -4,9 +4,16 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/services/Configuration.java</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/models/UsuarioCRUD.java</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/models/Pedido.java</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/models/Factura.java</file>
             <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/models/Usuario.java</file>
             <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/services/Services.java</file>
             <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/controllers/Controller1.java</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/web/index.html</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/models/FacturaCRUD.java</file>
+            <file>file:/C:/Users/JORGE_ALEJANDRO/Documents/NetBeansProjects/EmpresaLacteosServidor/src/java/models/PedidoCRUD.java</file>
         </group>
     </open-files>
 </project-private>
